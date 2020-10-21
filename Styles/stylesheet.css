@@ -1,0 +1,146 @@
+P {
+    color: #30475e;
+    text-align: left;
+}
+
+.header_color {
+
+    color: #30475e;
+
+}
+
+/* .active {
+
+color: #30475e;
+
+} */
+
+#header1 {
+
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+body {
+
+
+    background-color: #cbaf87;
+
+    text-align: center;
+    
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.nav_menu {
+
+position: fixed;
+
+top: 0px ;
+
+width: 100%;
+
+text-align: center;
+
+background-color: #7e8a97;
+
+color: #30475e;
+
+margin: -9px;
+
+padding: 20px;
+
+}
+
+.nav {
+
+list-style: none;
+
+}
+
+.nav a:link {
+
+color: rgb(31, 183, 221);
+
+}
+
+.nav a:visited {
+
+color: silver;
+
+}
+
+#main {
+
+margin-top: 10%;
+background-color: #e7dec8;
+
+}
+
+
+.home {
+
+    padding: 20px 15px;
+    margin: 3px;
+
+}
+
+.menu {
+
+    padding: 8px 8px;
+    margin: 3px;
+
+}
+
+.about {
+
+    padding: 8px 8px;
+    margin: 3px;
+
+}
+
+.footer {
+
+    position: relative;
+    margin-top: 700px;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    color: lightsteelblue;
+    font-size: 10px;
+
+}
+
+#breakfast {
+
+text-align: left;
+color: teal;
+
+}
+
+img {
+
+float: left;
+margin-right: 10px;
+
+}
+
+.clear {
+
+clear: both;
+
+}
+
+h3 {
+
+text-align: left;
+
+}
+
+#header3 {
+
+text-align: left;
+
+}
+
