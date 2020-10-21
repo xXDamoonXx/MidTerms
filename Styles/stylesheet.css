@@ -78,24 +78,16 @@ background-color: #e7dec8;
 
 }
 
-
-.home {
-
-    padding: 20px 15px;
-    margin: 3px;
-
-}
-
 .menu {
 
-    padding: 8px 8px;
+    padding: 3px 8px;
     margin: 3px;
 
 }
 
 .about {
 
-    padding: 8px 8px;
+    padding: 2.5px 8px;
     margin: 3px;
 
 }
@@ -141,6 +133,12 @@ text-align: left;
 #header3 {
 
 text-align: left;
+
+}
+
+a:hover {
+
+background-color: teal;
 
 }
 
